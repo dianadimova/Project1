@@ -1,2 +1,3 @@
 # Project1
 for ART151
+The user is viewing a grid representing a window pane. On the "other side" of that window pane, the noise is meant to look like heavy rainfall, gliding down the glass quickly. When the user clicks anywhere on the screen, the word 'good' appears, and when the user releases the mouse, the word is finished with 'bye'. The window pop-up prompts the user, thanking them for stopping by the webpage, but pushes them away because rain will fall as soon as they close that window. When the user closes the pop-up window, they may "say" goodbye to the visitor and watch the words disappear in the rain because rain distorts your ability to see clearly.
